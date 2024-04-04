@@ -21,10 +21,17 @@ Whether you're exploring the digital frontier or just passing by, let's collabor
 - 🔗 LinkedIn: [https://www.linkedin.com/in/tirdesh](https://www.linkedin.com/in/tirdesh)
 - 💻 GitHub: [https://github.com/tirdesh](https://github.com/tirdesh)
 
-### Remember:
+### Keep In Mind:
 
 ```python
 while not succeed:
     try_again()
     learn_more()
     keep_coding()
+```
+
+### 🔥 My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tirdesh&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirdesh&layout=compact&theme=vision-friendly-dark)](https://github.com/tirdesh/github-readme-stats)
