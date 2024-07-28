@@ -35,3 +35,5 @@ while not succeed:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tirdesh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirdesh&layout=compact&theme=vision-friendly-dark)](https://github.com/tirdesh/github-readme-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=tirdesh&abbreviated=true)
