@@ -38,10 +38,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."
-> 
-> — Steve Jobs
+> "You must learn to let go. Release the stress. You were never in control anyway."
+>
+> — Steve Maraboli
 
-*Updated on October 10, 2024*
+*Updated on October 11, 2024*
 
-![Profile views](https://komarev.com/ghpvc/?username=tirdesh&abbreviated=true)
