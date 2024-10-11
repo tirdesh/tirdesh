@@ -36,4 +36,12 @@ while not succeed:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirdesh&layout=compact&theme=vision-friendly-dark)](https://github.com/tirdesh/github-readme-stats)
 
+### Quote of the Day
+
+> "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."
+> 
+> — Steve Jobs
+
+*Updated on October 10, 2024*
+
 ![Profile views](https://komarev.com/ghpvc/?username=tirdesh&abbreviated=true)
