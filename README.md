@@ -36,11 +36,13 @@ while not succeed:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tirdesh&layout=compact&theme=vision-friendly-dark)](https://github.com/tirdesh/github-readme-stats)
 
+![Profile views](https://komarev.com/ghpvc/?username=tirdesh&abbreviated=true)
+
 ### Quote of the Day
 
 > "You must learn to let go. Release the stress. You were never in control anyway."
 >
 > — Steve Maraboli
 
-*Updated on October 11, 2024*
+*Updated on October 10, 2024*
 
