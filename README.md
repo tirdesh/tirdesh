@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."
+> "When it is dark enough, you can see the stars."
 >
-> — Jon Kabat-Zinn
+> — Ralph Waldo Emerson
 
-*Updated on October 12, 2024*
+*Updated on October 13, 2024*
 
