@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Excellence is not a skill. It is an attitude. "
+> "Forgive those who have hurt you."
 >
-> — Ralph Marston
+> — Les Brown
 
-*Updated on October 16, 2024*
+*Updated on October 17, 2024*
 
