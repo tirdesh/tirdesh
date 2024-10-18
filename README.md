@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Forgive those who have hurt you."
+> "Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."
 >
-> — Les Brown
+> — Benjamin Mays
 
-*Updated on October 17, 2024*
+*Updated on October 18, 2024*
 
