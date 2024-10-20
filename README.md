@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you're waiting until you feel talented enough to make it, you'll never make it."
+> "There is no absolute success in the world, only constant progress."
 >
-> — Criss Jami
+> — Jonathan Swift
 
-*Updated on October 19, 2024*
+*Updated on October 20, 2024*
 
