@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction."
+> "We are always complaining that our days are few, and acting as though there would be no end of them.  "
 >
-> — G.I. Gurdjieff
+> — Seneca
 
-*Updated on October 27, 2024*
+*Updated on October 28, 2024*
 
