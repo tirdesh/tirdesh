@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We are always complaining that our days are few, and acting as though there would be no end of them.  "
+> "Whenever people agree with me I always feel I must be wrong."
 >
-> — Seneca
+> — Oscar Wilde
 
-*Updated on October 28, 2024*
+*Updated on October 29, 2024*
 
