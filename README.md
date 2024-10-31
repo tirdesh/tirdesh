@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Believe in your infinite potential. Your only limitations are those you set upon yourself."
+> "Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "
 >
-> — Roy T. Bennett
+> — Jack Kerouac
 
-*Updated on October 30, 2024*
+*Updated on October 31, 2024*
 
