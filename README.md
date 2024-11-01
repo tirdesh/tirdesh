@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "
+> "A lie can travel half way around the world while the truth is putting on its shoes."
 >
-> — Jack Kerouac
+> — Mark Twain
 
-*Updated on October 31, 2024*
+*Updated on November 01, 2024*
 
