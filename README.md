@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Never let the fear of striking out keep you from playing the game."
+> "Anyone who has ever made anything of importance was disciplined."
 >
-> — Babe Ruth
+> — Andrew Hendrixson
 
-*Updated on November 03, 2024*
+*Updated on November 04, 2024*
 
