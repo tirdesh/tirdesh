@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Anyone who has ever made anything of importance was disciplined."
+> "Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."
 >
-> — Andrew Hendrixson
+> — Eckhart Tolle
 
-*Updated on November 04, 2024*
+*Updated on November 05, 2024*
 
