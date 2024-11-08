@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It is indeed a radical act of love just to sit down and be quiet for a time by yourself."
+> "It is what we make out of what we have, not what we are given, that separates one person from another."
 >
-> — Jon Kabat-Zinn
+> — Nelson Mandela
 
-*Updated on November 07, 2024*
+*Updated on November 08, 2024*
 
