@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."
+> "Dream big. Start small. But most of all, start."
 >
-> — Og Mandino
+> — Simon Sinek
 
-*Updated on November 14, 2024*
+*Updated on November 15, 2024*
 
