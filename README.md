@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We suffer more often in imagination than in reality.  "
+> "It isn't that they can't see the solution. It is that they can't see the problem."
 >
-> — Seneca
+> — Gilbert Chesterton
 
-*Updated on November 20, 2024*
+*Updated on November 21, 2024*
 
