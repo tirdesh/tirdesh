@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It isn't that they can't see the solution. It is that they can't see the problem."
+> "The greatest weariness comes from work not done."
 >
-> — Gilbert Chesterton
+> — Eric Hoffer
 
-*Updated on November 21, 2024*
+*Updated on November 22, 2024*
 
