@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The Truth is realized in an instant; the Act is practiced step by step."
+> "Before anything else, preparation is the key to success."
 >
-> — Seungsahn
+> — Alexander Graham Bell
 
-*Updated on November 23, 2024*
+*Updated on November 24, 2024*
 
