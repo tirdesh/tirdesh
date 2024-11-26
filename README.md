@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The soul without imagination is what an observatory would be without a telescope."
+> "The way out is in."
 >
-> — Henry Ward Beecher
+> — Thich Nhat Hanh
 
-*Updated on November 25, 2024*
+*Updated on November 26, 2024*
 
