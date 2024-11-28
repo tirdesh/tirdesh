@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Best be yourself, imperial, plain, and true."
+> "It doesn't matter where you are, you are nowhere compared to where you can go."
 >
-> — Robert Browning
+> — Bob Proctor
 
-*Updated on November 27, 2024*
+*Updated on November 28, 2024*
 
