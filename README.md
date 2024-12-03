@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Believe in one thing too much and you have no room for new ideas.  "
+> "Problems remain as problems because people are busy defending them rather than finding solutions."
 >
-> — Ray Bradbury
+> — Celestine Chua
 
-*Updated on December 02, 2024*
+*Updated on December 03, 2024*
 
