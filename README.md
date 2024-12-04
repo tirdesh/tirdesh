@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Problems remain as problems because people are busy defending them rather than finding solutions."
+> "The foolish reject what they see, not what they think; the wise reject what they think, not what they see."
 >
-> — Celestine Chua
+> — Huang Po
 
-*Updated on December 03, 2024*
+*Updated on December 04, 2024*
 
