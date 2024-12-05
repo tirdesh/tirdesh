@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The foolish reject what they see, not what they think; the wise reject what they think, not what they see."
+> "He who can, does."
 >
-> — Huang Po
+> — George Bernard Shaw
 
-*Updated on December 04, 2024*
+*Updated on December 05, 2024*
 
