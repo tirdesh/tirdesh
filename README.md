@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "He who can, does."
+> "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."
 >
-> — George Bernard Shaw
+> — Brian Tracy
 
-*Updated on December 05, 2024*
+*Updated on December 06, 2024*
 
