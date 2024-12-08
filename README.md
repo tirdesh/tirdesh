@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you do not push the boundaries, you will never know where they are."
+> "Decide whether or not the goal is worth the risks involved. If it is, stop worrying."
 >
-> — T.S. Eliot
+> — Amelia Earhart
 
-*Updated on December 07, 2024*
+*Updated on December 08, 2024*
 
