@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Decide whether or not the goal is worth the risks involved. If it is, stop worrying."
+> "If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."
 >
-> — Amelia Earhart
+> — T.S. Eliot
 
-*Updated on December 08, 2024*
+*Updated on December 09, 2024*
 
