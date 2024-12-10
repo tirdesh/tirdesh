@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."
+> "The important thing is not to stop questioning. Curiosity has its own reason for existing."
 >
-> — T.S. Eliot
+> — Albert Einstein
 
-*Updated on December 09, 2024*
+*Updated on December 10, 2024*
 
