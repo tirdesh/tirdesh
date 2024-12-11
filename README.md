@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The important thing is not to stop questioning. Curiosity has its own reason for existing."
+> "Most people achieved their greatest success one step beyond what looked like their greatest failure."
 >
-> — Albert Einstein
+> — Brian Tracy
 
-*Updated on December 10, 2024*
+*Updated on December 11, 2024*
 
