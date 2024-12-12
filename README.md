@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Most people achieved their greatest success one step beyond what looked like their greatest failure."
+> "Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality."
 >
-> — Brian Tracy
+> — James Cameron
 
-*Updated on December 11, 2024*
+*Updated on December 12, 2024*
 
