@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."
+> "If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace."
 >
-> — Elbert Hubbard
+> — Dogen
 
-*Updated on December 13, 2024*
+*Updated on December 14, 2024*
 
