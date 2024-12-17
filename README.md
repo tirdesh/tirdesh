@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Obstacles don't block the path, they are the path."
+> "We can see through others only when we can see through ourselves."
 >
-> — Zen Proverb
+> — Bruce Lee
 
-*Updated on December 16, 2024*
+*Updated on December 17, 2024*
 
