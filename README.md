@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Whatever you are, be a good one."
+> "Luck is a matter of preparation meeting opportunity."
 >
-> — Abraham Lincoln
+> — Oprah Winfrey
 
-*Updated on December 18, 2024*
+*Updated on December 19, 2024*
 
