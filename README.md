@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Luck is a matter of preparation meeting opportunity."
+> "You'll get more from being a peacemaker than a warrior."
 >
-> — Oprah Winfrey
+> — Arnold Schwarzenegger
 
-*Updated on December 19, 2024*
+*Updated on December 20, 2024*
 
