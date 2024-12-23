@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Longevity is a fleeting moment that lasts forever."
+> "Be brave to stand for what you believe in even if you stand alone."
 >
-> — Vidal Sassoon
+> — Roy T. Bennett
 
-*Updated on December 22, 2024*
+*Updated on December 23, 2024*
 
