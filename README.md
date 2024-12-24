@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Be brave to stand for what you believe in even if you stand alone."
+> "Muddy water is best cleared by leaving it alone."
 >
-> — Roy T. Bennett
+> — Alan Watts
 
-*Updated on December 23, 2024*
+*Updated on December 24, 2024*
 
