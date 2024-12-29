@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Don't let anyone define you. You define yourself."
+> "A Quitter never wins - and - a Winner never quits."
 >
-> — Billie Jean King
+> — Napoleon Hill
 
-*Updated on December 28, 2024*
+*Updated on December 29, 2024*
 
