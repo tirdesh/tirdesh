@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A Quitter never wins - and - a Winner never quits."
+> "We have to live life with a sense of urgency so not a minute is wasted."
 >
-> — Napoleon Hill
+> — Les Brown
 
-*Updated on December 29, 2024*
+*Updated on December 30, 2024*
 
