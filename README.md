@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We have to live life with a sense of urgency so not a minute is wasted."
+> "The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."
 >
-> — Les Brown
+> — Carlos Ruiz Zafon
 
-*Updated on December 30, 2024*
+*Updated on December 31, 2024*
 
