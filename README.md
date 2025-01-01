@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."
+> "You have to make time, even for something as universal as staring at the stars."
 >
-> — Carlos Ruiz Zafon
+> — W.P. Kinsella
 
-*Updated on December 31, 2024*
+*Updated on January 01, 2025*
 
