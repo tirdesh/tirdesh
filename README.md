@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "He who cheats the earth will be cheated by the earth."
+> "Far more crucial than what we know or do not know is what we do not want to know."
 >
-> — Chinese Proverb
+> — Eric Hoffer
 
-*Updated on January 02, 2025*
+*Updated on January 03, 2025*
 
