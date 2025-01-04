@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Far more crucial than what we know or do not know is what we do not want to know."
+> "Age is a very high price to pay for maturity."
 >
-> — Eric Hoffer
+> — William James
 
-*Updated on January 03, 2025*
+*Updated on January 04, 2025*
 
