@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Age is a very high price to pay for maturity."
+> "When the world pushes you to your knees, you're in the perfect position to pray."
 >
-> — William James
+> — Rumi
 
-*Updated on January 04, 2025*
+*Updated on January 05, 2025*
 
