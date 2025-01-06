@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "When the world pushes you to your knees, you're in the perfect position to pray."
+> "Most people spend more time and energy going around problems than in trying to solve them. "
 >
-> — Rumi
+> — Henry Ford
 
-*Updated on January 05, 2025*
+*Updated on January 06, 2025*
 
