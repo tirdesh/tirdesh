@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love."
+> "To be prepared is half the victory. "
 >
-> — Dr. Seuss
+> — Miguel de Cervantes
 
-*Updated on January 07, 2025*
+*Updated on January 08, 2025*
 
