@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "To be prepared is half the victory. "
+> "The most creative act you will ever undertake is the act of creating yourself."
 >
-> — Miguel de Cervantes
+> — Deepak Chopra
 
-*Updated on January 08, 2025*
+*Updated on January 09, 2025*
 
