@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A man who dares to waste one hour of time has not discovered the value of life."
+> "Yesterday is gone. Tomorrow has not yet come. We have only today."
 >
-> — Charles Darwin
+> — Mother Teresa
 
-*Updated on January 10, 2025*
+*Updated on January 11, 2025*
 
