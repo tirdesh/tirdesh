@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."
+> "You're always free to change your mind and choose a different future, or a different past."
 >
-> — Stephen King
+> — Richard Bach
 
-*Updated on January 13, 2025*
+*Updated on January 14, 2025*
 
