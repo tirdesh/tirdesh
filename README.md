@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You're always free to change your mind and choose a different future, or a different past."
+> "To do two things at once is to do neither."
 >
-> — Richard Bach
+> — Publilius Syrus
 
-*Updated on January 14, 2025*
+*Updated on January 15, 2025*
 
