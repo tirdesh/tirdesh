@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."
+> "It's better to dance than to march through life."
 >
-> — Robert Greene
+> — Yoko Ono
 
-*Updated on January 18, 2025*
+*Updated on January 19, 2025*
 
