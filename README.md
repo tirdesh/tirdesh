@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You need to be doing fewer things for more effect instead of doing more things with side effects."
+> "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."
 >
-> — Gary Keller
+> — Robert Greene
 
-*Updated on January 22, 2025*
+*Updated on January 23, 2025*
 
