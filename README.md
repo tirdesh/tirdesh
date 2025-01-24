@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."
+> "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."
 >
-> — Robert Greene
+> — Josh Waitzkin
 
-*Updated on January 23, 2025*
+*Updated on January 24, 2025*
 
