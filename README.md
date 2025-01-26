@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "How you think is as important as as what you think."
+> "You are free, and that is why you are lost. "
 >
-> — Unknown
+> — Franz Kafka
 
-*Updated on January 25, 2025*
+*Updated on January 26, 2025*
 
