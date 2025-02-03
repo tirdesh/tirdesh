@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "No one can hurt you without your consent."
+> "No one ever said life was fair. Just Eventful."
 >
-> — Eleanor Roosevelt
+> — Carol Burnett
 
-*Updated on February 02, 2025*
+*Updated on February 03, 2025*
 
