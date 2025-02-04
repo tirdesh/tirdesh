@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "No one ever said life was fair. Just Eventful."
+> "The more knowledge you have, the more you're free to rely on your instincts."
 >
-> — Carol Burnett
+> — Arnold Schwarzenegger
 
-*Updated on February 03, 2025*
+*Updated on February 04, 2025*
 
