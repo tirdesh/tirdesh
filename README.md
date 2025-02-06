@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "There is a wisdom of the head, and there is a wisdom of the heart."
+> "Be happy now, without reason - or you never will be at all."
 >
-> — Charles Dickens
+> — Dan Millman
 
-*Updated on February 05, 2025*
+*Updated on February 06, 2025*
 
