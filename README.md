@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Create each day anew."
+> "Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."
 >
-> — Morihei Ueshiba
+> — Colin Powell
 
-*Updated on February 07, 2025*
+*Updated on February 08, 2025*
 
