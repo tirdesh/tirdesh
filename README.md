@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You are not one person, but three: The one you think you are; The one others think you are; The one you really are."
+> "All great truths begin as blasphemies."
 >
-> — Sathya Sai Baba
+> — George Bernard Shaw
 
-*Updated on February 09, 2025*
+*Updated on February 10, 2025*
 
