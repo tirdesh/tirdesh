@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "All great truths begin as blasphemies."
+> "Man's character is his fate."
 >
-> — George Bernard Shaw
+> — Heraclitus
 
-*Updated on February 10, 2025*
+*Updated on February 11, 2025*
 
