@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Remember that sometimes not getting what you want is a wonderful stroke of luck."
+> "Rudeness is the weak man's imitation of strength."
 >
-> — Dalai Lama
+> — Eric Hoffer
 
-*Updated on February 17, 2025*
+*Updated on February 18, 2025*
 
