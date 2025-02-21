@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."
+> "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."
 >
-> — Benjamin Mays
+> — Ronald Reagan
 
-*Updated on February 20, 2025*
+*Updated on February 21, 2025*
 
