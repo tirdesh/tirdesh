@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means."
+> "To a mind that is still, the entire universe surrenders."
 >
-> — Ronald Reagan
+> — Zhuangzi
 
-*Updated on February 21, 2025*
+*Updated on February 22, 2025*
 
