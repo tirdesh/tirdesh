@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Children are our greatest natural resource."
+> "By failing to prepare, you are preparing to fail."
 >
-> — Herbert Hoover
+> — Benjamin Franklin
 
-*Updated on February 23, 2025*
+*Updated on February 24, 2025*
 
