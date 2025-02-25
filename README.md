@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "By failing to prepare, you are preparing to fail."
+> "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."
 >
-> — Benjamin Franklin
+> — Stephen King
 
-*Updated on February 24, 2025*
+*Updated on February 25, 2025*
 
