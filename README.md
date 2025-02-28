@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A comfort zone is a beautiful place, but nothing ever grows there."
+> "It's your life-but only if you make it so."
 >
-> — Unknown
+> — Eleanor Roosevelt
 
-*Updated on February 27, 2025*
+*Updated on February 28, 2025*
 
