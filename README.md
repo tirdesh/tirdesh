@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It's your life-but only if you make it so."
+> "The man who removes a mountain begins by carrying away small stones."
 >
-> — Eleanor Roosevelt
+> — William Faulkner
 
-*Updated on February 28, 2025*
+*Updated on March 01, 2025*
 
