@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The man who removes a mountain begins by carrying away small stones."
+> "The pain of parting is nothing to the joy of meeting again."
 >
-> — William Faulkner
+> — Charles Dickens
 
-*Updated on March 01, 2025*
+*Updated on March 02, 2025*
 
