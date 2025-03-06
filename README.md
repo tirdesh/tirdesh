@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."
+> "Admire as much as you can. Most people do not admire enough."
 >
-> — John Eliot
+> — Vincent van Gogh
 
-*Updated on March 05, 2025*
+*Updated on March 06, 2025*
 
