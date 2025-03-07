@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Admire as much as you can. Most people do not admire enough."
+> "The world doesn't always give you want, but it often gives you what you need."
 >
-> — Vincent van Gogh
+> — Naval Ravikant
 
-*Updated on March 06, 2025*
+*Updated on March 07, 2025*
 
