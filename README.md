@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The world doesn't always give you want, but it often gives you what you need."
+> "Everything flows, nothing stands still."
 >
-> — Naval Ravikant
+> — Heraclitus
 
-*Updated on March 07, 2025*
+*Updated on March 08, 2025*
 
