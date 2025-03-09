@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Everything flows, nothing stands still."
+> "You'll see it when you believe it. "
 >
-> — Heraclitus
+> — Wayne Dyer
 
-*Updated on March 08, 2025*
+*Updated on March 09, 2025*
 
