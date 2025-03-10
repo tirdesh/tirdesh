@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You'll see it when you believe it. "
+> "We can spend our whole lives escaping from the monsters of our minds."
 >
-> — Wayne Dyer
+> — Pema Chodron
 
-*Updated on March 09, 2025*
+*Updated on March 10, 2025*
 
