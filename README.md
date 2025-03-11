@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We can spend our whole lives escaping from the monsters of our minds."
+> "We cannot change anything unless we accept it."
 >
-> — Pema Chodron
+> — Carl Jung
 
-*Updated on March 10, 2025*
+*Updated on March 11, 2025*
 
