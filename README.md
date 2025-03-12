@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We cannot change anything unless we accept it."
+> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."
 >
-> — Carl Jung
+> — Criss Jami
 
-*Updated on March 11, 2025*
+*Updated on March 12, 2025*
 
