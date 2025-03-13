@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."
+> "The best fighter is never angry."
 >
-> — Criss Jami
+> — Lao Tzu
 
-*Updated on March 12, 2025*
+*Updated on March 13, 2025*
 
