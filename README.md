@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The best fighter is never angry."
+> "Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."
 >
-> — Lao Tzu
+> — Alfred Adler
 
-*Updated on March 13, 2025*
+*Updated on March 14, 2025*
 
