@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you."
+> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."
 >
-> — Peter Drucker
+> — Emily Dickinson
 
-*Updated on March 15, 2025*
+*Updated on March 16, 2025*
 
