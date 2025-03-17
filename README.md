@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."
+> "Your happiness is what truly matters most. Do what you have to do in order to be happy."
 >
-> — Emily Dickinson
+> — Brian Tracy
 
-*Updated on March 16, 2025*
+*Updated on March 17, 2025*
 
