@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Your happiness is what truly matters most. Do what you have to do in order to be happy."
+> "Giving back involves a certain amount of giving up."
 >
-> — Brian Tracy
+> — Colin Powell
 
-*Updated on March 17, 2025*
+*Updated on March 18, 2025*
 
