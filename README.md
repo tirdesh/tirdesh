@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Be fascinated instead of frustrated."
+> "Simple words, repeated daily, can change your life."
 >
-> — Jim Rohn
+> — Maxime Lagace
 
-*Updated on March 19, 2025*
+*Updated on March 20, 2025*
 
