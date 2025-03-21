@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Simple words, repeated daily, can change your life."
+> "Life is what you make it. Always has been, always will be."
 >
-> — Maxime Lagace
+> — Eleanor Roosevelt
 
-*Updated on March 20, 2025*
+*Updated on March 21, 2025*
 
