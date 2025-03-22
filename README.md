@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Life is what you make it. Always has been, always will be."
+> "Excellence is not an exception, it is a prevailing attitude."
 >
-> — Eleanor Roosevelt
+> — Colin Powell
 
-*Updated on March 21, 2025*
+*Updated on March 22, 2025*
 
