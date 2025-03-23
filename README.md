@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Excellence is not an exception, it is a prevailing attitude."
+> "You are now, and you do become, what you think about."
 >
-> — Colin Powell
+> — Earl Nightingale
 
-*Updated on March 22, 2025*
+*Updated on March 23, 2025*
 
