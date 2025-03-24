@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You are now, and you do become, what you think about."
+> "It's easier to lose than to win.  "
 >
-> — Earl Nightingale
+> — Wayne Gretzky
 
-*Updated on March 23, 2025*
+*Updated on March 24, 2025*
 
