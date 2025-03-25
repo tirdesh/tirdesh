@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It's easier to lose than to win.  "
+> "Everything you've ever wanted is on the other side of fear."
 >
-> — Wayne Gretzky
+> — Brian Tracy
 
-*Updated on March 24, 2025*
+*Updated on March 25, 2025*
 
