@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Everything you've ever wanted is on the other side of fear."
+> "Write to help yourself, publish to help others."
 >
-> — Brian Tracy
+> — Jack Butcher
 
-*Updated on March 25, 2025*
+*Updated on March 26, 2025*
 
