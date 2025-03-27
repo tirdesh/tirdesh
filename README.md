@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Write to help yourself, publish to help others."
+> "Confidence is what you have before you understand the problem."
 >
-> — Jack Butcher
+> — Woody Allen
 
-*Updated on March 26, 2025*
+*Updated on March 27, 2025*
 
