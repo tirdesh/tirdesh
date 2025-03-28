@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Confidence is what you have before you understand the problem."
+> "Intense love does not measure, it just gives."
 >
-> — Woody Allen
+> — Mother Teresa
 
-*Updated on March 27, 2025*
+*Updated on March 28, 2025*
 
