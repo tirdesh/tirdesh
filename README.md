@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Intense love does not measure, it just gives."
+> "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."
 >
-> — Mother Teresa
+> — Brian Tracy
 
-*Updated on March 28, 2025*
+*Updated on March 29, 2025*
 
