@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday."
+> "Success is about creating value."
 >
-> — Brian Tracy
+> — Candice Carpenter
 
-*Updated on March 29, 2025*
+*Updated on March 30, 2025*
 
