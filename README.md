@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Success is about creating value."
+> "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."
 >
-> — Candice Carpenter
+> — Virginia Woolf
 
-*Updated on March 30, 2025*
+*Updated on March 31, 2025*
 
