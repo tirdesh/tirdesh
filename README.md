@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Everybody needs a passion. That's what keeps life interesting."
+> "If you are going to achieve excellence in big things, you develop the habit in little matters."
 >
-> — Betty White
+> — Colin Powell
 
-*Updated on April 04, 2025*
+*Updated on April 05, 2025*
 
