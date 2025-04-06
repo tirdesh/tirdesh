@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you are going to achieve excellence in big things, you develop the habit in little matters."
+> "Don't wish it were easier, wish you were better."
 >
-> — Colin Powell
+> — Jim Rohn
 
-*Updated on April 05, 2025*
+*Updated on April 06, 2025*
 
