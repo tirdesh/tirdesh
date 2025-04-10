@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The greatest treasures are those invisible to the eye but found by the heart."
+> "He who wishes to be obeyed must know how to command."
 >
-> — Judy Garland
+> — Niccolo Machiavelli
 
-*Updated on April 09, 2025*
+*Updated on April 10, 2025*
 
