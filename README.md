@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "He who wishes to be obeyed must know how to command."
+> "I can live without money, but I cannot live without love."
 >
-> — Niccolo Machiavelli
+> — Judy Garland
 
-*Updated on April 10, 2025*
+*Updated on April 11, 2025*
 
