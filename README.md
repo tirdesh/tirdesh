@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Enjoy life. There's plenty of time to be dead."
+> "A mistake is only an error, it becomes a mistake when you fail to correct it."
 >
-> — Hans Christian Andersen
+> — John Lennon
 
-*Updated on April 12, 2025*
+*Updated on April 13, 2025*
 
