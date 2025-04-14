@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A mistake is only an error, it becomes a mistake when you fail to correct it."
+> "Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."
 >
-> — John Lennon
+> — Ralph Marston
 
-*Updated on April 13, 2025*
+*Updated on April 14, 2025*
 
