@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Truth is such a rare thing, it is delighted to tell it."
+> "Respect was invented to cover the empty place where love should be."
 >
-> — Emily Dickinson
+> — Leo Tolstoy
 
-*Updated on April 15, 2025*
+*Updated on April 16, 2025*
 
