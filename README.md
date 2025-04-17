@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Respect was invented to cover the empty place where love should be."
+> "Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."
 >
-> — Leo Tolstoy
+> — G.I. Gurdjieff
 
-*Updated on April 16, 2025*
+*Updated on April 17, 2025*
 
