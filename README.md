@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Without struggle, no progress and no result. Every breaking of habit produces a change in the machine."
+> "Still your waters."
 >
-> — G.I. Gurdjieff
+> — Josh Waitzkin
 
-*Updated on April 17, 2025*
+*Updated on April 18, 2025*
 
