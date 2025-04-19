@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Still your waters."
+> "If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere."
 >
-> — Josh Waitzkin
+> — Zig Ziglar
 
-*Updated on April 18, 2025*
+*Updated on April 19, 2025*
 
