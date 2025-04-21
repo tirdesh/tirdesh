@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Freedom lies in being bold."
+> "Your heart is the size of an ocean. Go find yourself in its hidden depths."
 >
-> — Robert Frost
+> — Rumi
 
-*Updated on April 20, 2025*
+*Updated on April 21, 2025*
 
