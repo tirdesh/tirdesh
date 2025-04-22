@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Your heart is the size of an ocean. Go find yourself in its hidden depths."
+> "When you judge another, you do not define them, you define yourself"
 >
-> — Rumi
+> — Wayne Dyer
 
-*Updated on April 21, 2025*
+*Updated on April 22, 2025*
 
