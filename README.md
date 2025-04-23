@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "When you judge another, you do not define them, you define yourself"
+> "The only reason to be alive is to enjoy it."
 >
-> — Wayne Dyer
+> — Rita Mae Brown
 
-*Updated on April 22, 2025*
+*Updated on April 23, 2025*
 
