@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You can't get to a place that you don't believe exists."
+> "Even if you persuade me, you won't persuade me."
 >
-> — Unknown
+> — Aristophanes
 
-*Updated on April 24, 2025*
+*Updated on April 25, 2025*
 
