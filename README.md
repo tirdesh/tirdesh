@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Even if you persuade me, you won't persuade me."
+> "In the middle of difficulty lies opportunity."
 >
-> — Aristophanes
+> — Albert Einstein
 
-*Updated on April 25, 2025*
+*Updated on April 26, 2025*
 
