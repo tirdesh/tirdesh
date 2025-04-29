@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Self-knowledge is the beginning of self-correction."
+> "Over time, loneliness gets inside you and doesn't go away."
 >
-> — Norman Vincent Peale
+> — Carlos Ruiz Zafon
 
-*Updated on April 28, 2025*
+*Updated on April 29, 2025*
 
