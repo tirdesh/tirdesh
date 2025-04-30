@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Over time, loneliness gets inside you and doesn't go away."
+> "Those who cannot change their minds cannot change anything."
 >
-> — Carlos Ruiz Zafon
+> — George Bernard Shaw
 
-*Updated on April 29, 2025*
+*Updated on April 30, 2025*
 
