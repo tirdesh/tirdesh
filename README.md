@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Those who cannot change their minds cannot change anything."
+> "Duty makes us do things well, but love makes us do them beautifully.  "
 >
-> — George Bernard Shaw
+> — Zig Ziglar
 
-*Updated on April 30, 2025*
+*Updated on May 01, 2025*
 
