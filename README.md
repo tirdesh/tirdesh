@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Duty makes us do things well, but love makes us do them beautifully.  "
+> "Confidence is contagious. So is lack of confidence."
 >
-> — Zig Ziglar
+> — Vince Lombardi
 
-*Updated on May 01, 2025*
+*Updated on May 02, 2025*
 
