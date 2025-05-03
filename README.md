@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Confidence is contagious. So is lack of confidence."
+> "Your best life will not be found in comfort. It will be found in fighting for what you believe in."
 >
-> — Vince Lombardi
+> — Maxime Lagace
 
-*Updated on May 02, 2025*
+*Updated on May 03, 2025*
 
