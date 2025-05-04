@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Your best life will not be found in comfort. It will be found in fighting for what you believe in."
+> "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."
 >
-> — Maxime Lagace
+> — Sun Tzu
 
-*Updated on May 03, 2025*
+*Updated on May 04, 2025*
 
