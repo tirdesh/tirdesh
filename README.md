@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."
+> "Throw your heart over the bar and your body will follow."
 >
-> — Sun Tzu
+> — Norman Vincent Peale
 
-*Updated on May 04, 2025*
+*Updated on May 05, 2025*
 
