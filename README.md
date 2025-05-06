@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Throw your heart over the bar and your body will follow."
+> "If what you're doing is not your passion, you have nothing to lose."
 >
-> — Norman Vincent Peale
+> — Celestine Chua
 
-*Updated on May 05, 2025*
+*Updated on May 06, 2025*
 
