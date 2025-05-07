@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If what you're doing is not your passion, you have nothing to lose."
+> "It's the possibility of having a dream come true that makes life interesting."
 >
-> — Celestine Chua
+> — Paulo Coelho
 
-*Updated on May 06, 2025*
+*Updated on May 07, 2025*
 
