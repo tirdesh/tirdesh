@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "20 percent of your activities will account for 80 percent of your results."
+> "People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."
 >
-> — Brian Tracy
+> — Zig Ziglar
 
-*Updated on May 08, 2025*
+*Updated on May 09, 2025*
 
