@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The majority of what you want will come from the minority of what you do."
+> "We don't stop playing because we grow old; we grow old because we stop playing."
 >
-> — Gary Keller
+> — George Bernard Shaw
 
-*Updated on May 10, 2025*
+*Updated on May 11, 2025*
 
