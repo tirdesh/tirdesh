@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We don't stop playing because we grow old; we grow old because we stop playing."
+> "There is no sadder sight than a young pessimist."
 >
-> — George Bernard Shaw
+> — Mark Twain
 
-*Updated on May 11, 2025*
+*Updated on May 12, 2025*
 
