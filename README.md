@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "People are doing the best that they can from their own level of consciousness."
+> "Amateurs sit and wait for inspiration, the rest of us just get up and got to work."
 >
-> — Deepak Chopra
+> — Stephen King
 
-*Updated on May 13, 2025*
+*Updated on May 14, 2025*
 
