@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Amateurs sit and wait for inspiration, the rest of us just get up and got to work."
+> "The future belongs to those who learn more skills and combine them in creative ways."
 >
-> — Stephen King
+> — Robert Greene
 
-*Updated on May 14, 2025*
+*Updated on May 15, 2025*
 
