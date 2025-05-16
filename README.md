@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The future belongs to those who learn more skills and combine them in creative ways."
+> "In youth we run into difficulties. In old age difficulties run into us. "
 >
-> — Robert Greene
+> — Beverly Sills
 
-*Updated on May 15, 2025*
+*Updated on May 16, 2025*
 
