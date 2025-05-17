@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "In youth we run into difficulties. In old age difficulties run into us. "
+> "Sometimes you have to lose all you have to find out who you truly are."
 >
-> — Beverly Sills
+> — Roy T. Bennett
 
-*Updated on May 16, 2025*
+*Updated on May 17, 2025*
 
