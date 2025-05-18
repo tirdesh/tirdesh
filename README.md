@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Sometimes you have to lose all you have to find out who you truly are."
+> "Pleasure can be supported by an illusion; but happiness rests upon truth. "
 >
-> — Roy T. Bennett
+> — Nicolas Chamfort
 
-*Updated on May 17, 2025*
+*Updated on May 18, 2025*
 
