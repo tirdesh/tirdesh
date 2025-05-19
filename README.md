@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Pleasure can be supported by an illusion; but happiness rests upon truth. "
+> "Nothing good ever comes of violence."
 >
-> — Nicolas Chamfort
+> — Martin Luther
 
-*Updated on May 18, 2025*
+*Updated on May 19, 2025*
 
