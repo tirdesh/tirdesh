@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Nothing good ever comes of violence."
+> "An investment in knowledge pays the best interest."
 >
-> — Martin Luther
+> — Benjamin Franklin
 
-*Updated on May 19, 2025*
+*Updated on May 20, 2025*
 
