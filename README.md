@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Human beings believe just as they breathe - in order to survive."
+> "Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now."
 >
-> — Carlos Ruiz Zafon
+> — Spencer Johnson
 
-*Updated on May 21, 2025*
+*Updated on May 22, 2025*
 
