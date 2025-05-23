@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now."
+> "The chief danger in life is that you may take too many precautions."
 >
-> — Spencer Johnson
+> — Alfred Adler
 
-*Updated on May 22, 2025*
+*Updated on May 23, 2025*
 
