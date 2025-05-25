@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "
+> "Be where your enemy is not."
 >
-> — Paramahansa Yogananda
+> — Sun Tzu
 
-*Updated on May 24, 2025*
+*Updated on May 25, 2025*
 
