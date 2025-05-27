@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Deliberately seek the company of people who influence you to think and act on building the life you desire."
+> "Thinking will not overcome fear but action will. "
 >
-> — Napoleon Hill
+> — W. Clement Stone
 
-*Updated on May 26, 2025*
+*Updated on May 27, 2025*
 
