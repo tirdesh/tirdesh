@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We forge the chains we wear in life."
+> "Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."
 >
-> — Charles Dickens
+> — Harry S. Truman
 
-*Updated on May 29, 2025*
+*Updated on May 30, 2025*
 
