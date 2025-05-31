@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."
+> "Everyone is a moon, and has a dark side which he never shows to anybody."
 >
-> — Harry S. Truman
+> — Mark Twain
 
-*Updated on May 30, 2025*
+*Updated on May 31, 2025*
 
