@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Everyone is a moon, and has a dark side which he never shows to anybody."
+> "Time goes from present to past."
 >
-> — Mark Twain
+> — Shunryu Suzuki
 
-*Updated on May 31, 2025*
+*Updated on June 01, 2025*
 
