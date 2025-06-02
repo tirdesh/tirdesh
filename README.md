@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Time goes from present to past."
+> "Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."
 >
-> — Shunryu Suzuki
+> — Dogen
 
-*Updated on June 01, 2025*
+*Updated on June 02, 2025*
 
