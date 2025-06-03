@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Life and death are of supreme importance. Time swiftly passes by and opportunity is lost."
+> "Dreams are the touchstones of our characters."
 >
-> — Dogen
+> — Henry David Thoreau
 
-*Updated on June 02, 2025*
+*Updated on June 03, 2025*
 
