@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Through selfless service, you will always be fruitful and find the fulfillment of your desires."
+> "There are two things a person should never be angry at, what they can help, and what they cannot."
 >
-> — Bhagavad Gita
+> — Plato
 
-*Updated on June 04, 2025*
+*Updated on June 05, 2025*
 
