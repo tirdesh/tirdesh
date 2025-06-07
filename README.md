@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."
+> "Youth has no age."
 >
-> — Ming-Dao Deng
+> — Pablo Picasso
 
-*Updated on June 06, 2025*
+*Updated on June 07, 2025*
 
