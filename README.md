@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Youth has no age."
+> "If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."
 >
-> — Pablo Picasso
+> — Arnold Schwarzenegger
 
-*Updated on June 07, 2025*
+*Updated on June 08, 2025*
 
