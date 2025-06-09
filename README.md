@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream."
+> "One is never afraid of the unknown; one is afraid of the known coming to an end."
 >
-> — Arnold Schwarzenegger
+> — Jiddu Krishnamurti
 
-*Updated on June 08, 2025*
+*Updated on June 09, 2025*
 
