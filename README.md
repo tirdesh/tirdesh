@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "One is never afraid of the unknown; one is afraid of the known coming to an end."
+> "When you want to be honored by others, you learn to honor them first."
 >
-> — Jiddu Krishnamurti
+> — Sathya Sai Baba
 
-*Updated on June 09, 2025*
+*Updated on June 10, 2025*
 
