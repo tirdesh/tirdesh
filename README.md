@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Debt is the slavery of the free."
+> "Most people fail in life because they major in minor things."
 >
-> — Publilius Syrus
+> — Tony Robbins
 
-*Updated on June 12, 2025*
+*Updated on June 13, 2025*
 
