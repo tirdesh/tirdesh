@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Most people fail in life because they major in minor things."
+> "The key to success is action."
 >
-> — Tony Robbins
+> — Brian Tracy
 
-*Updated on June 13, 2025*
+*Updated on June 14, 2025*
 
