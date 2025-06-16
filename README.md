@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Little minds have little worries, big minds have no time for worries."
+> "Facts are the enemy of truth. "
 >
-> — Ralph Waldo Emerson
+> — Miguel de Cervantes
 
-*Updated on June 15, 2025*
+*Updated on June 16, 2025*
 
