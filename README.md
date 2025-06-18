@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It's not what you pay a man, but what he costs you that counts."
+> "You can tell more about a person by what he says about others than you can by what others say about him."
 >
-> — Will Rogers
+> — Audrey Hepburn
 
-*Updated on June 17, 2025*
+*Updated on June 18, 2025*
 
