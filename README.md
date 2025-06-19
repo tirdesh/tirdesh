@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You can tell more about a person by what he says about others than you can by what others say about him."
+> "A self that goes on changing is a self that goes on living."
 >
-> — Audrey Hepburn
+> — Virginia Woolf
 
-*Updated on June 18, 2025*
+*Updated on June 19, 2025*
 
