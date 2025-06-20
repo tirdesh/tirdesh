@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A self that goes on changing is a self that goes on living."
+> "Life happens in the river, not the shore."
 >
-> — Virginia Woolf
+> — Maxime Lagace
 
-*Updated on June 19, 2025*
+*Updated on June 20, 2025*
 
