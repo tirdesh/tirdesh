@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "In the middle of chaos lies opportunity.  "
+> "If you chase two rabbits, you catch none."
 >
-> — Bruce Lee
+> — Confucius
 
-*Updated on June 21, 2025*
+*Updated on June 22, 2025*
 
