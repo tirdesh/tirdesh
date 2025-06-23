@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you chase two rabbits, you catch none."
+> "A person hears only what they understand."
 >
-> — Confucius
+> — Johann Wolfgang von Goethe
 
-*Updated on June 22, 2025*
+*Updated on June 23, 2025*
 
