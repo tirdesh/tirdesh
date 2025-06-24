@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A person hears only what they understand."
+> "What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."
 >
-> — Johann Wolfgang von Goethe
+> — Eckhart Tolle
 
-*Updated on June 23, 2025*
+*Updated on June 24, 2025*
 
