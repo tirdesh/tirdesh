@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that."
+> "Wheels of justice grind slow but grind fine."
 >
-> — Eckhart Tolle
+> — Sun Tzu
 
-*Updated on June 24, 2025*
+*Updated on June 25, 2025*
 
