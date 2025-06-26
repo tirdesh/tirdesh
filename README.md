@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Wheels of justice grind slow but grind fine."
+> "Discontent is the first necessity of progress."
 >
-> — Sun Tzu
+> — Thomas Edison
 
-*Updated on June 25, 2025*
+*Updated on June 26, 2025*
 
