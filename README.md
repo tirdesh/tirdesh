@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Always focus on the front windshield and not the rear view mirror."
+> "Not all those who wander are lost."
 >
-> — Colin Powell
+> — J.R.R. Tolkien
 
-*Updated on July 03, 2025*
+*Updated on July 04, 2025*
 
