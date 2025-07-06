@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "
+> "The longer we dwell on our misfortunes, the greater is their power to harm us."
 >
-> — Charles Swindoll
+> — Voltaire
 
-*Updated on July 05, 2025*
+*Updated on July 06, 2025*
 
