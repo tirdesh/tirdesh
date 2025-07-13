@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The destiny of man is in his own soul. "
+> "Most people fail in life not because they aim too high and miss, but because they aim too low and hit."
 >
-> — Herodotus
+> — Les Brown
 
-*Updated on July 12, 2025*
+*Updated on July 13, 2025*
 
