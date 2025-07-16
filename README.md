@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You will succeed because most people are lazy."
+> "Well done is better than well said."
 >
-> — Shahir Zag
+> — Benjamin Franklin
 
-*Updated on July 15, 2025*
+*Updated on July 16, 2025*
 
