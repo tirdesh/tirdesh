@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Well done is better than well said."
+> "Ponder and deliberate before you make a move."
 >
-> — Benjamin Franklin
+> — Sun Tzu
 
-*Updated on July 16, 2025*
+*Updated on July 17, 2025*
 
