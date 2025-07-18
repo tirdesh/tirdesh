@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Ponder and deliberate before you make a move."
+> "Better a diamond with a flaw than a pebble without one."
 >
-> — Sun Tzu
+> — Chinese Proverb
 
-*Updated on July 17, 2025*
+*Updated on July 18, 2025*
 
