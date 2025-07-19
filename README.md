@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Better a diamond with a flaw than a pebble without one."
+> "Words used to attract the dull of wit are not to be relied on."
 >
-> — Chinese Proverb
+> — Huang Po
 
-*Updated on July 18, 2025*
+*Updated on July 19, 2025*
 
