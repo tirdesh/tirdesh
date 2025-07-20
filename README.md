@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Words used to attract the dull of wit are not to be relied on."
+> "You're on earth. There's no cure for that."
 >
-> — Huang Po
+> — Samuel Beckett
 
-*Updated on July 19, 2025*
+*Updated on July 20, 2025*
 
