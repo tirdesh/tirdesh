@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You're on earth. There's no cure for that."
+> "Everything eaten is killed. Every meal is a sacrifice."
 >
-> — Samuel Beckett
+> — Adi Da Samraj
 
-*Updated on July 20, 2025*
+*Updated on July 21, 2025*
 
