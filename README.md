@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Everything eaten is killed. Every meal is a sacrifice."
+> "Your work is to discover your work and then, with all your heart, to give yourself to it."
 >
-> — Adi Da Samraj
+> — Buddha
 
-*Updated on July 21, 2025*
+*Updated on July 22, 2025*
 
