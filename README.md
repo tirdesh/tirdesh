@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "When you're curious, you find lots of interesting things to do."
+> "To every action there is always opposed an equal reaction."
 >
-> — Walt Disney
+> — Isaac Newton
 
-*Updated on July 24, 2025*
+*Updated on July 25, 2025*
 
