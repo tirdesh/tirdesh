@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Creativity is the greatest rebellion in existence."
+> "Be the silent watcher of your thoughts and behavior. You are beneath the thinker."
 >
-> — Osho
+> — Eckhart Tolle
 
-*Updated on July 26, 2025*
+*Updated on July 27, 2025*
 
