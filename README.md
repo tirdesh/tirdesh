@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Be the silent watcher of your thoughts and behavior. You are beneath the thinker."
+> "Confidence comes from crossing thresholds."
 >
-> — Eckhart Tolle
+> — Kamal Ravikant
 
-*Updated on July 27, 2025*
+*Updated on July 28, 2025*
 
