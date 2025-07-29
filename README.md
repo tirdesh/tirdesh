@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Confidence comes from crossing thresholds."
+> "What you do today can improve all your tomorrows."
 >
-> — Kamal Ravikant
+> — Ralph Marston
 
-*Updated on July 28, 2025*
+*Updated on July 29, 2025*
 
