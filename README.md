@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."
+> "Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."
 >
-> — Steve Maraboli
+> — Marcus Aurelius
 
-*Updated on August 01, 2025*
+*Updated on August 02, 2025*
 
