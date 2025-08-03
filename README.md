@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly."
+> "How many times do you have to get hit over the head until you figure out who's hitting you?"
 >
-> — Marcus Aurelius
+> — Harry S. Truman
 
-*Updated on August 02, 2025*
+*Updated on August 03, 2025*
 
