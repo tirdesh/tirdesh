@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "How many times do you have to get hit over the head until you figure out who's hitting you?"
+> "The only limits in your life are those that you set yourself."
 >
-> — Harry S. Truman
+> — Celestine Chua
 
-*Updated on August 03, 2025*
+*Updated on August 04, 2025*
 
