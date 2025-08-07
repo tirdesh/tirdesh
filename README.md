@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."
+> "Be yourself; everyone else is already taken."
 >
-> — William Faulkner
+> — Oscar Wilde
 
-*Updated on August 06, 2025*
+*Updated on August 07, 2025*
 
