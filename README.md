@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Don't criticize what you can't understand. "
+> "Management is doing things right; leadership is doing the right things."
 >
-> — Bob Dylan
+> — Peter Drucker
 
-*Updated on August 09, 2025*
+*Updated on August 10, 2025*
 
