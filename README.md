@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Management is doing things right; leadership is doing the right things."
+> "The chief cause of failure and unhappiness is trading what you want most for what you want right now."
 >
-> — Peter Drucker
+> — Zig Ziglar
 
-*Updated on August 10, 2025*
+*Updated on August 11, 2025*
 
