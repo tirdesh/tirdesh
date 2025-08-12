@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The chief cause of failure and unhappiness is trading what you want most for what you want right now."
+> "We must learn to live together as brothers or perish together as fools."
 >
-> — Zig Ziglar
+> — Martin Luther King, Jr.
 
-*Updated on August 11, 2025*
+*Updated on August 12, 2025*
 
