@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We must learn to live together as brothers or perish together as fools."
+> "It is not what we get. But who we become, what we contribute... that gives meaning to our lives."
 >
-> — Martin Luther King, Jr.
+> — Tony Robbins
 
-*Updated on August 12, 2025*
+*Updated on August 13, 2025*
 
