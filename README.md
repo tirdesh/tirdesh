@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "
+> "Turn your face to the sun, as flowers know how to do."
 >
-> — Nikola Tesla
+> — Ming-Dao Deng
 
-*Updated on August 14, 2025*
+*Updated on August 15, 2025*
 
