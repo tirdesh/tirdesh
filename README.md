@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Your conscience is the measure of the honesty of your selfishness. Listen to it carefully."
+> "Happiness is an effect of doing what you love, not an end goal to be achieved."
 >
-> — Richard Bach
+> — Celestine Chua
 
-*Updated on August 17, 2025*
+*Updated on August 18, 2025*
 
