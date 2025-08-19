@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Happiness is an effect of doing what you love, not an end goal to be achieved."
+> "It is not uncommon for people to spend their whole life waiting to start living."
 >
-> — Celestine Chua
+> — Eckhart Tolle
 
-*Updated on August 18, 2025*
+*Updated on August 19, 2025*
 
