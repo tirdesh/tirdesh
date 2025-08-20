@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It is not uncommon for people to spend their whole life waiting to start living."
+> "You are the average of the five people you spend most time with."
 >
-> — Eckhart Tolle
+> — Jim Rohn
 
-*Updated on August 19, 2025*
+*Updated on August 20, 2025*
 
