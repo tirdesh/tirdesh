@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You are the average of the five people you spend most time with."
+> "You can avoid reality, but you cannot avoid the consequences of avoiding reality."
 >
-> — Jim Rohn
+> — Ayn Rand
 
-*Updated on August 20, 2025*
+*Updated on August 21, 2025*
 
