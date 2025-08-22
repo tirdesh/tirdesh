@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You can avoid reality, but you cannot avoid the consequences of avoiding reality."
+> "A man who cannot tolerate small misfortunes can never accomplish great things."
 >
-> — Ayn Rand
+> — Chinese Proverb
 
-*Updated on August 21, 2025*
+*Updated on August 22, 2025*
 
