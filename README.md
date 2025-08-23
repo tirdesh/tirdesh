@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A man who cannot tolerate small misfortunes can never accomplish great things."
+> "Do the hard jobs first. The easy jobs will take care of themselves."
 >
-> — Chinese Proverb
+> — Dale Carnegie
 
-*Updated on August 22, 2025*
+*Updated on August 23, 2025*
 
