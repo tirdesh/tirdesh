@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The more we value things, the less we value ourselves.  "
+> "Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."
 >
-> — Bruce Lee
+> — Celestine Chua
 
-*Updated on August 25, 2025*
+*Updated on August 26, 2025*
 
