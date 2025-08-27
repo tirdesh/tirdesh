@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry."
+> "Keep your face to the sunshine and you cannot see the shadows."
 >
-> — Celestine Chua
+> — Helen Keller
 
-*Updated on August 26, 2025*
+*Updated on August 27, 2025*
 
