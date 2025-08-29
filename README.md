@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Behind every beautiful thing, there's some kind of pain."
+> "Talent is luck. The important thing in life is courage."
 >
-> — Bob Dylan
+> — Woody Allen
 
-*Updated on August 28, 2025*
+*Updated on August 29, 2025*
 
