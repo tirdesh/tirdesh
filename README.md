@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Talent is luck. The important thing in life is courage."
+> "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "
 >
-> — Woody Allen
+> — George Washington
 
-*Updated on August 29, 2025*
+*Updated on August 30, 2025*
 
