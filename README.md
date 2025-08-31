@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "
+> "There is always risk, so learn to manage risk instead of avoiding it."
 >
-> — George Washington
+> — Robert Kiyosaki
 
-*Updated on August 30, 2025*
+*Updated on August 31, 2025*
 
