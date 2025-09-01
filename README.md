@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "There is always risk, so learn to manage risk instead of avoiding it."
+> "First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "
 >
-> — Robert Kiyosaki
+> — Estee Lauder
 
-*Updated on August 31, 2025*
+*Updated on September 01, 2025*
 
