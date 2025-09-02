@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  "
+> "The trouble with the rat race is that even if you win, you're still a rat."
 >
-> — Estee Lauder
+> — Lily Tomlin
 
-*Updated on September 01, 2025*
+*Updated on September 02, 2025*
 
