@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The trouble with the rat race is that even if you win, you're still a rat."
+> "To know even one life has breathed easier because you have lived. This is to have succeeded."
 >
-> — Lily Tomlin
+> — Ralph Waldo Emerson
 
-*Updated on September 02, 2025*
+*Updated on September 03, 2025*
 
