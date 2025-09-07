@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If no one ever broke the rules, then we'd never advance."
+> "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."
 >
-> — Simon Sinek
+> — T.S. Eliot
 
-*Updated on September 06, 2025*
+*Updated on September 07, 2025*
 
