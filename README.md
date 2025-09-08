@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."
+> "Don't blame others. it won't make you a better person."
 >
-> — T.S. Eliot
+> — Lolly Daskal
 
-*Updated on September 07, 2025*
+*Updated on September 08, 2025*
 
