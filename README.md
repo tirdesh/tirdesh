@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "No problem can be solved from the same level of consciousness that created it."
+> "It is not fair to ask of others what you are not willing to do yourself."
 >
-> — Albert Einstein
+> — Eleanor Roosevelt
 
-*Updated on September 13, 2025*
+*Updated on September 14, 2025*
 
