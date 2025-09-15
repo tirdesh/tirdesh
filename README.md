@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It is not fair to ask of others what you are not willing to do yourself."
+> "Passion is energy. Feel the power that comes from focusing on what excites you. "
 >
-> — Eleanor Roosevelt
+> — Oprah Winfrey
 
-*Updated on September 14, 2025*
+*Updated on September 15, 2025*
 
