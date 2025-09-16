@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Passion is energy. Feel the power that comes from focusing on what excites you. "
+> "A strong man overcomes an obstacle, a wise man goes the whole way."
 >
-> — Oprah Winfrey
+> — Zen Proverb
 
-*Updated on September 15, 2025*
+*Updated on September 16, 2025*
 
