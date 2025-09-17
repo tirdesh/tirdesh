@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A strong man overcomes an obstacle, a wise man goes the whole way."
+> "I dream my painting and I paint my dream."
 >
-> — Zen Proverb
+> — Vincent van Gogh
 
-*Updated on September 16, 2025*
+*Updated on September 17, 2025*
 
