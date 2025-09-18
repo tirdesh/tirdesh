@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "I dream my painting and I paint my dream."
+> "Success is getting what you want... Happiness is wanting what you get."
 >
-> — Vincent van Gogh
+> — Dale Carnegie
 
-*Updated on September 17, 2025*
+*Updated on September 18, 2025*
 
