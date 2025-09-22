@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Never whine, never complain, never try to justify yourself."
+> "There is no greatness where there is not simplicity, goodness, and truth."
 >
-> — Robert Greene
+> — Leo Tolstoy
 
-*Updated on September 21, 2025*
+*Updated on September 22, 2025*
 
