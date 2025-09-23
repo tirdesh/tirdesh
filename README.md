@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "There is no greatness where there is not simplicity, goodness, and truth."
+> "Human beings can alter their lives by altering their attitudes of mind."
 >
-> — Leo Tolstoy
+> — William James
 
-*Updated on September 22, 2025*
+*Updated on September 23, 2025*
 
