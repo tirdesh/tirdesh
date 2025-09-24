@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Human beings can alter their lives by altering their attitudes of mind."
+> "You must be willing to do what others won't do, to have what others won't have."
 >
-> — William James
+> — Les Brown
 
-*Updated on September 23, 2025*
+*Updated on September 24, 2025*
 
