@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."
+> "No man is free who is not master of himself."
 >
-> — Robert Greene
+> — Epictetus
 
-*Updated on September 27, 2025*
+*Updated on September 28, 2025*
 
