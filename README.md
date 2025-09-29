@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "No man is free who is not master of himself."
+> "Not everything that weighs you down is yours to carry."
 >
-> — Epictetus
+> — Unknown
 
-*Updated on September 28, 2025*
+*Updated on September 29, 2025*
 
