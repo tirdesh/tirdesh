@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Not everything that weighs you down is yours to carry."
+> "Judge a man by his questions rather than his answers."
 >
-> — Unknown
+> — Voltaire
 
-*Updated on September 29, 2025*
+*Updated on September 30, 2025*
 
