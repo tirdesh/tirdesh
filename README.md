@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "He that can have patience can have what he will."
+> "It is our experiences that mold us into who we are...during times of adversity our true character will show."
 >
-> — Benjamin Franklin
+> — Unknown
 
-*Updated on October 02, 2025*
+*Updated on October 03, 2025*
 
