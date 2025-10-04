@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It is our experiences that mold us into who we are...during times of adversity our true character will show."
+> "The opposite of courage in our society is not cowardice... it is conformity."
 >
-> — Unknown
+> — Earl Nightingale
 
-*Updated on October 03, 2025*
+*Updated on October 04, 2025*
 
