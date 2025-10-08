@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Listen to the secret sound, the real sound, which is inside you."
+> "The eyes of others our prisons; their thoughts our cages."
 >
-> — Kabir
+> — Virginia Woolf
 
-*Updated on October 07, 2025*
+*Updated on October 08, 2025*
 
