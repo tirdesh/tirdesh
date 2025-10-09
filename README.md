@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The eyes of others our prisons; their thoughts our cages."
+> "There is nothing more frightful than ignorance in action."
 >
-> — Virginia Woolf
+> — Johann Wolfgang von Goethe
 
-*Updated on October 08, 2025*
+*Updated on October 09, 2025*
 
