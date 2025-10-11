@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The more reasons you have for achieving your goal, the more determined you will become."
+> "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."
 >
-> — Brian Tracy
+> — Pema Chodron
 
-*Updated on October 10, 2025*
+*Updated on October 11, 2025*
 
