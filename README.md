@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Life is trying things to see if they work."
+> "Desire is suffering."
 >
-> — Ray Bradbury
+> — Naval Ravikant
 
-*Updated on October 15, 2025*
+*Updated on October 16, 2025*
 
