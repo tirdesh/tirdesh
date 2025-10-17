@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Desire is suffering."
+> "Excellence is not a skill. It is an attitude. "
 >
-> — Naval Ravikant
+> — Ralph Marston
 
-*Updated on October 16, 2025*
+*Updated on October 17, 2025*
 
