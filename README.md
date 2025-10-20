@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."
+> "If you're waiting until you feel talented enough to make it, you'll never make it."
 >
-> — Benjamin Mays
+> — Criss Jami
 
-*Updated on October 19, 2025*
+*Updated on October 20, 2025*
 
