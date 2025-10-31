@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Whenever people agree with me I always feel I must be wrong."
+> "Believe in your infinite potential. Your only limitations are those you set upon yourself."
 >
-> — Oscar Wilde
+> — Roy T. Bennett
 
-*Updated on October 30, 2025*
+*Updated on October 31, 2025*
 
