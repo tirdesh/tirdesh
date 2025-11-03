@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A lie can travel half way around the world while the truth is putting on its shoes."
+> "The purpose of life is the life of purpose."
 >
-> — Mark Twain
+> — Robin Sharma
 
-*Updated on November 02, 2025*
+*Updated on November 03, 2025*
 
