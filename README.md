@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The purpose of life is the life of purpose."
+> "Never let the fear of striking out keep you from playing the game."
 >
-> — Robin Sharma
+> — Babe Ruth
 
-*Updated on November 03, 2025*
+*Updated on November 04, 2025*
 
