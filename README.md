@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."
+> "He who knows best knows how little he knows."
 >
-> — Eckhart Tolle
+> — Thomas Jefferson
 
-*Updated on November 06, 2025*
+*Updated on November 07, 2025*
 
