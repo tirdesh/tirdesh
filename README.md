@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "He who knows best knows how little he knows."
+> "It is indeed a radical act of love just to sit down and be quiet for a time by yourself."
 >
-> — Thomas Jefferson
+> — Jon Kabat-Zinn
 
-*Updated on November 07, 2025*
+*Updated on November 08, 2025*
 
