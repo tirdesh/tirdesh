@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It is what we make out of what we have, not what we are given, that separates one person from another."
+> "The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."
 >
-> — Nelson Mandela
+> — Brian Tracy
 
-*Updated on November 09, 2025*
+*Updated on November 10, 2025*
 
