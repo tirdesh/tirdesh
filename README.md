@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."
+> "The best answer to anger is silence."
 >
-> — Kahlil Gibran
+> — Marcus Aurelius
 
-*Updated on November 12, 2025*
+*Updated on November 13, 2025*
 
