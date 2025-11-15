@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "No man can get rich himself unless he enriches others."
+> "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again."
 >
-> — Earl Nightingale
+> — Og Mandino
 
-*Updated on November 14, 2025*
+*Updated on November 15, 2025*
 
