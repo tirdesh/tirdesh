@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Dream big. Start small. But most of all, start."
+> "The power to make and break habits and learning how to do that is really important."
 >
-> — Simon Sinek
+> — Naval Ravikant
 
-*Updated on November 16, 2025*
+*Updated on November 17, 2025*
 
