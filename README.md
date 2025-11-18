@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The power to make and break habits and learning how to do that is really important."
+> "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."
 >
-> — Naval Ravikant
+> — Elon Musk
 
-*Updated on November 17, 2025*
+*Updated on November 18, 2025*
 
