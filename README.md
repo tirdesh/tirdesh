@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better."
+> "Passion creates, addiction consumes."
 >
-> — Elon Musk
+> — Gabor Mate
 
-*Updated on November 18, 2025*
+*Updated on November 19, 2025*
 
