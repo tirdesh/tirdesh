@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Passion creates, addiction consumes."
+> "The opportunity of defeating the enemy is provided by the enemy himself."
 >
-> — Gabor Mate
+> — Sun Tzu
 
-*Updated on November 19, 2025*
+*Updated on November 20, 2025*
 
