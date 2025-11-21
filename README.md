@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The opportunity of defeating the enemy is provided by the enemy himself."
+> "We suffer more often in imagination than in reality.  "
 >
-> — Sun Tzu
+> — Seneca
 
-*Updated on November 20, 2025*
+*Updated on November 21, 2025*
 
