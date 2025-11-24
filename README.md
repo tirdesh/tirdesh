@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The greatest weariness comes from work not done."
+> "The Truth is realized in an instant; the Act is practiced step by step."
 >
-> — Eric Hoffer
+> — Seungsahn
 
-*Updated on November 23, 2025*
+*Updated on November 24, 2025*
 
