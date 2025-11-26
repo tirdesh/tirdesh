@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Before anything else, preparation is the key to success."
+> "The soul without imagination is what an observatory would be without a telescope."
 >
-> — Alexander Graham Bell
+> — Henry Ward Beecher
 
-*Updated on November 25, 2025*
+*Updated on November 26, 2025*
 
