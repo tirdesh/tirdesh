@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It doesn't matter where you are, you are nowhere compared to where you can go."
+> "What's the point in being smart enough to read, if everything you read makes you dumb?"
 >
-> — Bob Proctor
+> — C. Sean McGee
 
-*Updated on November 29, 2025*
+*Updated on November 30, 2025*
 
