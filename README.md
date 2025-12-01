@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "What's the point in being smart enough to read, if everything you read makes you dumb?"
+> "You are not the drop in the ocean, but the ocean in the drop."
 >
-> — C. Sean McGee
+> — Deepak Chopra
 
-*Updated on November 30, 2025*
+*Updated on December 01, 2025*
 
