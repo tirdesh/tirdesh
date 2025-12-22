@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You'll get more from being a peacemaker than a warrior."
+> "Never spend your money before you have earned it."
 >
-> — Arnold Schwarzenegger
+> — Thomas Jefferson
 
-*Updated on December 21, 2025*
+*Updated on December 22, 2025*
 
