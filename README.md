@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Never spend your money before you have earned it."
+> "Longevity is a fleeting moment that lasts forever."
 >
-> — Thomas Jefferson
+> — Vidal Sassoon
 
-*Updated on December 22, 2025*
+*Updated on December 23, 2025*
 
