@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."
+> "Start the day with love, spend the day with love, fill the day with love and end the day with love."
 >
-> — Carl Bard
+> — Sathya Sai Baba
 
-*Updated on December 26, 2025*
+*Updated on December 27, 2025*
 
