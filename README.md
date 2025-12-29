@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "A crisis is an opportunity riding the dangerous wind."
+> "Don't let anyone define you. You define yourself."
 >
-> — Chinese Proverb
+> — Billie Jean King
 
-*Updated on December 28, 2025*
+*Updated on December 29, 2025*
 
