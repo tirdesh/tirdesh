@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We have to live life with a sense of urgency so not a minute is wasted."
+> "You have to make time, even for something as universal as staring at the stars."
 >
-> — Les Brown
+> — W.P. Kinsella
 
-*Updated on December 31, 2025*
+*Updated on January 01, 2026*
 
