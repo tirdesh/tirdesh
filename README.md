@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You have to make time, even for something as universal as staring at the stars."
+> "He who cheats the earth will be cheated by the earth."
 >
-> — W.P. Kinsella
+> — Chinese Proverb
 
-*Updated on January 01, 2026*
+*Updated on January 02, 2026*
 
