@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The most creative act you will ever undertake is the act of creating yourself."
+> "A man who dares to waste one hour of time has not discovered the value of life."
 >
-> — Deepak Chopra
+> — Charles Darwin
 
-*Updated on January 09, 2026*
+*Updated on January 10, 2026*
 
