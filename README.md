@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Yesterday is gone. Tomorrow has not yet come. We have only today."
+> "Presents are made for the pleasure of who gives them, not the merits of who receives them."
 >
-> — Mother Teresa
+> — Carlos Ruiz Zafon
 
-*Updated on January 11, 2026*
+*Updated on January 12, 2026*
 
