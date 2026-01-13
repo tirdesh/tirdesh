@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Presents are made for the pleasure of who gives them, not the merits of who receives them."
+> "When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head."
 >
-> — Carlos Ruiz Zafon
+> — Stephen King
 
-*Updated on January 12, 2026*
+*Updated on January 13, 2026*
 
