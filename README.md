@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "To do two things at once is to do neither."
+> "The goal is not to be perfect by the end, the goal is to be better today."
 >
-> — Publilius Syrus
+> — Simon Sinek
 
-*Updated on January 15, 2026*
+*Updated on January 16, 2026*
 
