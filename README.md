@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The goal is not to be perfect by the end, the goal is to be better today."
+> "Silence is a source of great strength."
 >
-> — Simon Sinek
+> — Lao Tzu
 
-*Updated on January 16, 2026*
+*Updated on January 17, 2026*
 
