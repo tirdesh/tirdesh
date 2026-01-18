@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Silence is a source of great strength."
+> "Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."
 >
-> — Lao Tzu
+> — Robert Greene
 
-*Updated on January 17, 2026*
+*Updated on January 18, 2026*
 
