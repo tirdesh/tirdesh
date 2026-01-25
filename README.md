@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible."
+> "How you think is as important as as what you think."
 >
-> — Josh Waitzkin
+> — Unknown
 
-*Updated on January 24, 2026*
+*Updated on January 25, 2026*
 
