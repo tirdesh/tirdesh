@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You are free, and that is why you are lost. "
+> "If someone betrays you once, it's their fault; if they betray you twice, it's your fault."
 >
-> — Franz Kafka
+> — Eleanor Roosevelt
 
-*Updated on January 26, 2026*
+*Updated on January 27, 2026*
 
