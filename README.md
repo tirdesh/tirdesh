@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Your only obligation in any lifetime is to be true to yourself."
+> "Know yourself and you will win all battles."
 >
-> — Richard Bach
+> — Sun Tzu
 
-*Updated on January 30, 2026*
+*Updated on January 31, 2026*
 
