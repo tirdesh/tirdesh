@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Know yourself and you will win all battles."
+> "What you get by achieving your goals is not as important as what you become by achieving your goals."
 >
-> — Sun Tzu
+> — Henry David Thoreau
 
-*Updated on January 31, 2026*
+*Updated on February 01, 2026*
 
