@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "What you get by achieving your goals is not as important as what you become by achieving your goals."
+> "No one can hurt you without your consent."
 >
-> — Henry David Thoreau
+> — Eleanor Roosevelt
 
-*Updated on February 01, 2026*
+*Updated on February 02, 2026*
 
