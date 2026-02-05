@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The more knowledge you have, the more you're free to rely on your instincts."
+> "There is a wisdom of the head, and there is a wisdom of the heart."
 >
-> — Arnold Schwarzenegger
+> — Charles Dickens
 
-*Updated on February 04, 2026*
+*Updated on February 05, 2026*
 
