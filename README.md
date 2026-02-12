@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Man's character is his fate."
+> "We are all self-made, but only the successful will admit it."
 >
-> — Heraclitus
+> — Earl Nightingale
 
-*Updated on February 11, 2026*
+*Updated on February 12, 2026*
 
