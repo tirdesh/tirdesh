@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We are all self-made, but only the successful will admit it."
+> "All leaders are readers."
 >
-> — Earl Nightingale
+> — Jim Rohn
 
-*Updated on February 12, 2026*
+*Updated on February 13, 2026*
 
