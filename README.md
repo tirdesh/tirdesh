@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "All leaders are readers."
+> "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."
 >
-> — Jim Rohn
+> — Jonathan Swift
 
-*Updated on February 13, 2026*
+*Updated on February 14, 2026*
 
