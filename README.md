@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."
+> "If a thing is worth doing, it is worth doing badly."
 >
-> — Jonathan Swift
+> — Gilbert Chesterton
 
-*Updated on February 14, 2026*
+*Updated on February 15, 2026*
 
