@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If a thing is worth doing, it is worth doing badly."
+> "We are all born ignorant, but one must work hard to remain stupid."
 >
-> — Gilbert Chesterton
+> — Benjamin Franklin
 
-*Updated on February 15, 2026*
+*Updated on February 16, 2026*
 
