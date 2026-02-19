@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Rudeness is the weak man's imitation of strength."
+> "Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "
 >
-> — Eric Hoffer
+> — Franz Kafka
 
-*Updated on February 18, 2026*
+*Updated on February 19, 2026*
 
