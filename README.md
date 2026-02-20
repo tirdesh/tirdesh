@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "
+> "The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach."
 >
-> — Franz Kafka
+> — Benjamin Mays
 
-*Updated on February 19, 2026*
+*Updated on February 20, 2026*
 
