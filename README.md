@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "There is no sadder sight than a young pessimist."
+> "Becoming a great leader doesn't mean being perfect. it means living with your imperfections."
 >
-> — Mark Twain
+> — Lolly Daskal
 
-*Updated on May 12, 2026*
+*Updated on May 13, 2026*
 
