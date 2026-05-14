@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Becoming a great leader doesn't mean being perfect. it means living with your imperfections."
+> "Life is like stepping onto a boat which is about to sail out to sea and sink."
 >
-> — Lolly Daskal
+> — Shunryu Suzuki
 
-*Updated on May 13, 2026*
+*Updated on May 14, 2026*
 
