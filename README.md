@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Life is like stepping onto a boat which is about to sail out to sea and sink."
+> "People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."
 >
-> — Shunryu Suzuki
+> — Andrew Carnegie
 
-*Updated on May 14, 2026*
+*Updated on May 15, 2026*
 
