@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."
+> "Worry is a waste of emotional reserve."
 >
-> — Andrew Carnegie
+> — Ayn Rand
 
-*Updated on May 15, 2026*
+*Updated on May 16, 2026*
 
