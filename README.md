@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Worry is a waste of emotional reserve."
+> "The search for happiness is one of the chief sources of unhappiness."
 >
-> — Ayn Rand
+> — Eric Hoffer
 
-*Updated on May 16, 2026*
+*Updated on May 17, 2026*
 
