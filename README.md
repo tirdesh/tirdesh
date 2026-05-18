@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The search for happiness is one of the chief sources of unhappiness."
+> "The purpose of life is the life of purpose."
 >
-> — Eric Hoffer
+> — Robin Sharma
 
-*Updated on May 17, 2026*
+*Updated on May 18, 2026*
 
