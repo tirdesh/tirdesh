@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The purpose of life is the life of purpose."
+> "If you don't have time to do it right, when will you have time to do it over?"
 >
-> — Robin Sharma
+> — John Wooden
 
-*Updated on May 18, 2026*
+*Updated on May 20, 2026*
 
