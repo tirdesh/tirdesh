@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you don't have time to do it right, when will you have time to do it over?"
+> "The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."
 >
-> — John Wooden
+> — Stephen Hawking
 
-*Updated on May 20, 2026*
+*Updated on May 21, 2026*
 
