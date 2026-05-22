@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."
+> "The soul should always stand ajar, ready to welcome the ecstatic experience."
 >
-> — Stephen Hawking
+> — Emily Dickinson
 
-*Updated on May 21, 2026*
+*Updated on May 22, 2026*
 
