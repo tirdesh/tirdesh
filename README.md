@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The soul should always stand ajar, ready to welcome the ecstatic experience."
+> "True knowledge exists in knowing that you know nothing."
 >
-> — Emily Dickinson
+> — Socrates
 
-*Updated on May 22, 2026*
+*Updated on May 23, 2026*
 
