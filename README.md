@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less."
+> "Learn only how to avoid seeking for and attaching yourselves to anything."
 >
-> — Dan Millman
+> — Huang Po
 
-*Updated on May 25, 2026*
+*Updated on May 26, 2026*
 
