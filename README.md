@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Learn only how to avoid seeking for and attaching yourselves to anything."
+> "Being wrong opens us up to the possibility of change."
 >
-> — Huang Po
+> — Mark Manson
 
-*Updated on May 26, 2026*
+*Updated on May 27, 2026*
 
