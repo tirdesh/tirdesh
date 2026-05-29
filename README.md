@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Being wrong opens us up to the possibility of change."
+> "Do something to move yourself toward your major goal every day."
 >
-> — Mark Manson
+> — Brian Tracy
 
-*Updated on May 27, 2026*
+*Updated on May 29, 2026*
 
