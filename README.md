@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Do something to move yourself toward your major goal every day."
+> "Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work."
 >
-> — Brian Tracy
+> — John Eliot
 
-*Updated on May 29, 2026*
+*Updated on May 30, 2026*
 
