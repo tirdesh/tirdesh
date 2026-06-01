@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better."
+> "Continuous effort - not strength or intelligence - is the key to unlocking our potential."
 >
-> — Spencer Johnson
+> — Winston Churchill
 
-*Updated on May 31, 2026*
+*Updated on June 01, 2026*
 
