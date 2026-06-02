@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Continuous effort - not strength or intelligence - is the key to unlocking our potential."
+> "The only thing worse than being blind is having sight but no vision."
 >
-> — Winston Churchill
+> — Helen Keller
 
-*Updated on June 01, 2026*
+*Updated on June 02, 2026*
 
