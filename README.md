@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The only thing worse than being blind is having sight but no vision."
+> "You are always your own best guru, your own best teacher, the answers are always inside you."
 >
-> — Helen Keller
+> — Sathya Sai Baba
 
-*Updated on June 02, 2026*
+*Updated on June 03, 2026*
 
