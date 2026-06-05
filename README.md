@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Expect the best of yourself, and then do what is necessary to make it a reality."
+> "One of the most difficult things is not to change society - but to change yourself."
 >
-> — Ralph Marston
+> — Nelson Mandela
 
-*Updated on June 04, 2026*
+*Updated on June 05, 2026*
 
