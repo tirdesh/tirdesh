@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."
+> "A lot of people have gone further than they thought they could because someone else thought they could."
 >
-> — Confucius
+> — Zig Ziglar
 
-*Updated on June 06, 2026*
+*Updated on June 07, 2026*
 
