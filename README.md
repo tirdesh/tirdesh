@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "I like the dreams of the future better than the history of the past."
+> "Given the choice between the experience of pain and nothing, I would choose pain."
 >
-> — Thomas Jefferson
+> — William Faulkner
 
-*Updated on June 08, 2026*
+*Updated on June 09, 2026*
 
