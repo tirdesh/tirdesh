@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Short cuts make long delays."
+> "Every man desires to live long, but no man wishes to be old."
 >
-> — J.R.R. Tolkien
+> — Jonathan Swift
 
-*Updated on June 10, 2026*
+*Updated on June 11, 2026*
 
