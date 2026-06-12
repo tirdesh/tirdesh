@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Every man desires to live long, but no man wishes to be old."
+> "The future depends on what you do today."
 >
-> — Jonathan Swift
+> — Mahatma Gandhi
 
-*Updated on June 11, 2026*
+*Updated on June 12, 2026*
 
