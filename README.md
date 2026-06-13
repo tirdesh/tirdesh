@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The future depends on what you do today."
+> "You can't build a reputation on what you are going to do."
 >
-> — Mahatma Gandhi
+> — Henry Ford
 
-*Updated on June 12, 2026*
+*Updated on June 13, 2026*
 
