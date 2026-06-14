@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You can't build a reputation on what you are going to do."
+> "Anger begins with folly, and ends with repentance."
 >
-> — Henry Ford
+> — Beverly Sills
 
-*Updated on June 13, 2026*
+*Updated on June 14, 2026*
 
