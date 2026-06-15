@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Anger begins with folly, and ends with repentance."
+> "Your dream has to be bigger than your fear."
 >
-> — Beverly Sills
+> — Steve Harvey
 
-*Updated on June 14, 2026*
+*Updated on June 15, 2026*
 
