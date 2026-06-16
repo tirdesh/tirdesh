@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Your dream has to be bigger than your fear."
+> "The road to success is always under construction.."
 >
-> — Steve Harvey
+> — Lily Tomlin
 
-*Updated on June 15, 2026*
+*Updated on June 16, 2026*
 
