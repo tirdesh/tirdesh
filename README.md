@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The road to success is always under construction.."
+> "Never whine, never complain, never try to justify yourself."
 >
-> — Lily Tomlin
+> — Robert Greene
 
-*Updated on June 16, 2026*
+*Updated on June 17, 2026*
 
