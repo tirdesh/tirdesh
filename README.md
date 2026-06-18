@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Never whine, never complain, never try to justify yourself."
+> "But better die than live mechanically a life that is a repetition of repetitions."
 >
-> — Robert Greene
+> — D. H. Lawrence
 
-*Updated on June 17, 2026*
+*Updated on June 18, 2026*
 
