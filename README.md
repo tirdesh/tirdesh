@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "But better die than live mechanically a life that is a repetition of repetitions."
+> "All we have to decide is what to do with the time that is given to us."
 >
-> — D. H. Lawrence
+> — J.R.R. Tolkien
 
-*Updated on June 18, 2026*
+*Updated on June 19, 2026*
 
