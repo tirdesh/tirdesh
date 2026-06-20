@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "All we have to decide is what to do with the time that is given to us."
+> "Let us rather run the risk of wearing out than rusting out."
 >
-> — J.R.R. Tolkien
+> — Theodore Roosevelt
 
-*Updated on June 19, 2026*
+*Updated on June 20, 2026*
 
