@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Only when you can be extremely pliable and soft can you be extremely hard and strong."
+> "Argue for your limitations and sure enough, they're yours."
 >
-> — Zen Proverb
+> — Richard Bach
 
-*Updated on June 21, 2026*
+*Updated on June 22, 2026*
 
