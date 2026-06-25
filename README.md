@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You're on earth. There's no cure for that."
+> "The best fighter is never angry."
 >
-> — Samuel Beckett
+> — Lao Tzu
 
-*Updated on June 24, 2026*
+*Updated on June 25, 2026*
 
