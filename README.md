@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The best fighter is never angry."
+> "It is dangerous to be right in matters on which the established authorities are wrong."
 >
-> — Lao Tzu
+> — Voltaire
 
-*Updated on June 25, 2026*
+*Updated on June 26, 2026*
 
