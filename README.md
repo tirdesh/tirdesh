@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It is dangerous to be right in matters on which the established authorities are wrong."
+> "Do Something. If it works, do more of it. If it doesn't, do something else."
 >
-> — Voltaire
+> — Franklin D. Roosevelt
 
-*Updated on June 26, 2026*
+*Updated on June 27, 2026*
 
