@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Do Something. If it works, do more of it. If it doesn't, do something else."
+> "Truth is the offspring of silence and meditation."
 >
-> — Franklin D. Roosevelt
+> — Isaac Newton
 
-*Updated on June 27, 2026*
+*Updated on June 28, 2026*
 
