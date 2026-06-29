@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Truth is the offspring of silence and meditation."
+> "All leaders are readers."
 >
-> — Isaac Newton
+> — Jim Rohn
 
-*Updated on June 28, 2026*
+*Updated on June 29, 2026*
 
