@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "All leaders are readers."
+> "To create more positive results in your life, replace 'if only' with 'next time'."
 >
-> — Jim Rohn
+> — Celestine Chua
 
-*Updated on June 29, 2026*
+*Updated on June 30, 2026*
 
