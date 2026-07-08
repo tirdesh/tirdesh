@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy."
+> "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."
 >
-> — Sun Tzu
+> — Steve Maraboli
 
-*Updated on July 07, 2026*
+*Updated on July 08, 2026*
 
