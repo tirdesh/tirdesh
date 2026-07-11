@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it."
+> "Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."
 >
-> — Kamal Ravikant
+> — Ray Bradbury
 
-*Updated on July 10, 2026*
+*Updated on July 11, 2026*
 
