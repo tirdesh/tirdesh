@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories."
+> "Success is a consequence and must not be a goal."
 >
-> — Ray Bradbury
+> — Gustave Flaubert
 
-*Updated on July 11, 2026*
+*Updated on July 12, 2026*
 
