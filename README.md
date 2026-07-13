@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Success is a consequence and must not be a goal."
+> "Words, once they are printed, have a life of their own."
 >
-> — Gustave Flaubert
+> — Carol Burnett
 
-*Updated on July 12, 2026*
+*Updated on July 13, 2026*
 
