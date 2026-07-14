@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Words, once they are printed, have a life of their own."
+> "Pain doesn't last. And when it's gone, we have something to show for it. Growth."
 >
-> — Carol Burnett
+> — Kamal Ravikant
 
-*Updated on July 13, 2026*
+*Updated on July 14, 2026*
 
