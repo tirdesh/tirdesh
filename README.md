@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Pain doesn't last. And when it's gone, we have something to show for it. Growth."
+> "There's no next time. It's now or never."
 >
-> — Kamal Ravikant
+> — Celestine Chua
 
-*Updated on July 14, 2026*
+*Updated on July 15, 2026*
 
