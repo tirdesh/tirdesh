@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "There's no next time. It's now or never."
+> "Knowing others is wisdom, knowing yourself is enlightenment."
 >
-> — Celestine Chua
+> — Lao Tzu
 
-*Updated on July 15, 2026*
+*Updated on July 16, 2026*
 
