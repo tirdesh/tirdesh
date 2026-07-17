@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Knowing others is wisdom, knowing yourself is enlightenment."
+> "Death and life have their determined appointments; riches and honors depend upon heaven."
 >
-> — Lao Tzu
+> — Confucius
 
-*Updated on July 16, 2026*
+*Updated on July 17, 2026*
 
