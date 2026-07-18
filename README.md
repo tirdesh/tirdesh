@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Death and life have their determined appointments; riches and honors depend upon heaven."
+> "Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"
 >
-> — Confucius
+> — Robin Sharma
 
-*Updated on July 17, 2026*
+*Updated on July 18, 2026*
 
