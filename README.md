@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Do Something. If it works, do more of it. If it doesn't, do something else."
+> "Nothing makes a man broad-minded like adversity."
 >
-> — Franklin D. Roosevelt
+> — Will Rogers
 
-*Updated on July 21, 2026*
+*Updated on July 22, 2026*
 
