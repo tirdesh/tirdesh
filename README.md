@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Let us rather run the risk of wearing out than rusting out."
+> "But better die than live mechanically a life that is a repetition of repetitions."
 >
-> — Theodore Roosevelt
+> — D. H. Lawrence
 
-*Updated on July 26, 2026*
+*Updated on July 27, 2026*
 
