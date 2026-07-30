@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you let your head get too big, it'll break your neck."
+> "It isn't that they can't see the solution. It is that they can't see the problem."
 >
-> — Elvis Presley
+> — Gilbert Chesterton
 
-*Updated on July 29, 2026*
+*Updated on July 30, 2026*
 
