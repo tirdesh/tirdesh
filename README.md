@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Love never keeps a man from pursuing his destiny."
+> "It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."
 >
-> — Paulo Coelho
+> — Epictetus
 
-*Updated on August 04, 2026*
+*Updated on August 05, 2026*
 
