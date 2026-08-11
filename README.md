@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Correct what you can. Learn from what you can't."
+> "Still your waters."
 >
-> — Toni Morrison
+> — Josh Waitzkin
 
-*Updated on August 10, 2026*
+*Updated on August 11, 2026*
 
