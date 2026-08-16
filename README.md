@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Man suffers only because he takes seriously what the gods made for fun."
+> "Motivation is what gets you started. Habit is what keeps you going."
 >
-> — Alan Watts
+> — Jim Rohn
 
-*Updated on August 15, 2026*
+*Updated on August 16, 2026*
 
