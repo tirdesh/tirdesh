@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Motivation is what gets you started. Habit is what keeps you going."
+> "Your happiness is what truly matters most. Do what you have to do in order to be happy."
 >
-> — Jim Rohn
+> — Brian Tracy
 
-*Updated on August 16, 2026*
+*Updated on August 17, 2026*
 
