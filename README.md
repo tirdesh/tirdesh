@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Why change? Everyone has his own style. When you have found it, you should stick to it."
+> "No matter how tall the mountain is, it cannot block the sun."
 >
-> — Audrey Hepburn
+> — Chinese Proverb
 
-*Updated on August 19, 2026*
+*Updated on August 20, 2026*
 
