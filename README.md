@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "No matter how tall the mountain is, it cannot block the sun."
+> "Listen to the secret sound, the real sound, which is inside you."
 >
-> — Chinese Proverb
+> — Kabir
 
-*Updated on August 20, 2026*
+*Updated on August 21, 2026*
 
