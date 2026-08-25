@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The quicker you let go of old cheese, the sooner you find new cheese."
+> "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."
 >
-> — Spencer Johnson
+> — Denis Waitley
 
-*Updated on August 24, 2026*
+*Updated on August 25, 2026*
 
