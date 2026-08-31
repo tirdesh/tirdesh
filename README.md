@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Keep your eyes on the goal, and just keep taking the next step towards completing it."
+> "To a mind that is still, the entire universe surrenders."
 >
-> — John Carmack
+> — Zhuangzi
 
-*Updated on August 30, 2026*
+*Updated on August 31, 2026*
 
