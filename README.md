@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "To a mind that is still, the entire universe surrenders."
+> "Stop wasting time defending your problems and work on addressing them instead."
 >
-> — Zhuangzi
+> — Celestine Chua
 
-*Updated on August 31, 2026*
+*Updated on September 01, 2026*
 
