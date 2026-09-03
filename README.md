@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Force has no place where there is need of skill."
+> "If you don't find the time, if you don't do the work, you don't get the results."
 >
-> — Herodotus
+> — Arnold Schwarzenegger
 
-*Updated on September 02, 2026*
+*Updated on September 03, 2026*
 
