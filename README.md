@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "However difficult life may seem, there is always something you can do and succeed at."
+> "A man with outward courage dares to die: a man with inner courage dares to live."
 >
-> — Stephen Hawking
+> — Lao Tzu
 
-*Updated on September 05, 2026*
+*Updated on September 06, 2026*
 
