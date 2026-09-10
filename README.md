@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We are all like the bright moon, we still have our darker side."
+> "Simple words, repeated daily, can change your life."
 >
-> — Kahlil Gibran
+> — Maxime Lagace
 
-*Updated on September 09, 2026*
+*Updated on September 10, 2026*
 
