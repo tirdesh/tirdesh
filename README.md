@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Simple words, repeated daily, can change your life."
+> "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."
 >
-> — Maxime Lagace
+> — Ming-Dao Deng
 
-*Updated on September 10, 2026*
+*Updated on September 11, 2026*
 
