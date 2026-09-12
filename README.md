@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose."
+> "He who leaves the game wins it."
 >
-> — Ming-Dao Deng
+> — Nicolas Chamfort
 
-*Updated on September 11, 2026*
+*Updated on September 12, 2026*
 
