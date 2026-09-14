@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Everyday is a second chance."
+> "If you spend too much time thinking about a thing, you'll never get it done."
 >
-> — Unknown
+> — Bruce Lee
 
-*Updated on September 13, 2026*
+*Updated on September 14, 2026*
 
