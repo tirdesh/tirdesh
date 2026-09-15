@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you spend too much time thinking about a thing, you'll never get it done."
+> "Knowing yourself is the beginning of all wisdom."
 >
-> — Bruce Lee
+> — Aristotle
 
-*Updated on September 14, 2026*
+*Updated on September 15, 2026*
 
