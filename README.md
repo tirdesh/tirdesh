@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Knowing yourself is the beginning of all wisdom."
+> "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."
 >
-> — Aristotle
+> — Brian Tracy
 
-*Updated on September 15, 2026*
+*Updated on September 16, 2026*
 
