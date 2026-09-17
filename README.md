@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."
+> "When things go wrong, don't go with them."
 >
-> — Brian Tracy
+> — Elvis Presley
 
-*Updated on September 16, 2026*
+*Updated on September 17, 2026*
 
