@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you get up one more time than you fall, you will make it through."
+> "Don't let your learning lead to knowledge. Let your learning lead to action."
 >
-> — Chinese Proverb
+> — Jim Rohn
 
-*Updated on September 26, 2026*
+*Updated on September 27, 2026*
 
