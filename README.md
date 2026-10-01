@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "If you've made a mistake, it's better just to laugh at it."
+> "When you stop questioning, you stop learning."
 >
-> — Zen Proverb
+> — Lolly Daskal
 
-*Updated on September 30, 2026*
+*Updated on October 01, 2026*
 
