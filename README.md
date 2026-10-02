@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "When you stop questioning, you stop learning."
+> "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."
 >
-> — Lolly Daskal
+> — Nelson Mandela
 
-*Updated on October 01, 2026*
+*Updated on October 02, 2026*
 
