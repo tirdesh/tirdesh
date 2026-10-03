@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."
+> "We are born from a quiet sleep, and we die to a calm awakening"
 >
-> — Nelson Mandela
+> — Zhuangzi
 
-*Updated on October 02, 2026*
+*Updated on October 03, 2026*
 
