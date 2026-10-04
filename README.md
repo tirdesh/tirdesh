@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "We are born from a quiet sleep, and we die to a calm awakening"
+> "Would you rather learn to deal with the truth now than be forced to do so later on?"
 >
-> — Zhuangzi
+> — Celestine Chua
 
-*Updated on October 03, 2026*
+*Updated on October 04, 2026*
 
