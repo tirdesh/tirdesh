@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Would you rather learn to deal with the truth now than be forced to do so later on?"
+> "Engage in those actions and thoughts that nurture the good qualities you want to have."
 >
-> — Celestine Chua
+> — Paramahansa Yogananda
 
-*Updated on October 04, 2026*
+*Updated on October 05, 2026*
 
