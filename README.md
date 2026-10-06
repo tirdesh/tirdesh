@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Engage in those actions and thoughts that nurture the good qualities you want to have."
+> "A gentleman is one who puts more into the world than he takes out."
 >
-> — Paramahansa Yogananda
+> — George Bernard Shaw
 
-*Updated on October 05, 2026*
+*Updated on October 06, 2026*
 
