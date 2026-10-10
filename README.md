@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool."
+> "Ability is a poor man's wealth."
 >
-> — Ray Bradbury
+> — John Wooden
 
-*Updated on October 09, 2026*
+*Updated on October 10, 2026*
 
