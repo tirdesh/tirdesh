@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You only live once, but if you do it right, once is enough."
+> "Those who know, do. Those that understand, teach."
 >
-> — Mae West
+> — Aristotle
 
-*Updated on October 11, 2026*
+*Updated on October 12, 2026*
 
