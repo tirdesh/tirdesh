@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Those who know, do. Those that understand, teach."
+> "Life can be the scariest and most beautiful thing simultaneously."
 >
-> — Aristotle
+> — Maxime Lagace
 
-*Updated on October 12, 2026*
+*Updated on October 13, 2026*
 
