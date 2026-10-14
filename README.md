@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Life can be the scariest and most beautiful thing simultaneously."
+> "Genius is one percent inspiration and ninety-nine percent perspiration."
 >
-> — Maxime Lagace
+> — Thomas Edison
 
-*Updated on October 13, 2026*
+*Updated on October 14, 2026*
 
