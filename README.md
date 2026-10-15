@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Genius is one percent inspiration and ninety-nine percent perspiration."
+> "Everything eaten is killed. Every meal is a sacrifice."
 >
-> — Thomas Edison
+> — Adi Da Samraj
 
-*Updated on October 14, 2026*
+*Updated on October 15, 2026*
 
