@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Everything eaten is killed. Every meal is a sacrifice."
+> "As we first succeed, we will find ourselves in new situations, facing new problems."
 >
-> — Adi Da Samraj
+> — Ryan Holiday
 
-*Updated on October 15, 2026*
+*Updated on October 16, 2026*
 
