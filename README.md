@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "As we first succeed, we will find ourselves in new situations, facing new problems."
+> "You've got to get up every morning with determination if you're going to go to bed with satisfaction."
 >
-> — Ryan Holiday
+> — George Lorimer
 
-*Updated on October 16, 2026*
+*Updated on October 17, 2026*
 
