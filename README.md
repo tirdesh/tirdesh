@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "You've got to get up every morning with determination if you're going to go to bed with satisfaction."
+> "The greater the impact you want to make, the greater your influence needs to be."
 >
-> — George Lorimer
+> — Lolly Daskal
 
-*Updated on October 17, 2026*
+*Updated on October 18, 2026*
 
