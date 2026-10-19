@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The greater the impact you want to make, the greater your influence needs to be."
+> "The secret of change is to focus all your energy not on fighting the old, but on building the new."
 >
-> — Lolly Daskal
+> — Colin R. Davis
 
-*Updated on October 18, 2026*
+*Updated on October 19, 2026*
 
