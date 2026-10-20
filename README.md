@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The secret of change is to focus all your energy not on fighting the old, but on building the new."
+> "Success is about doing the right thing, not about doing everything right."
 >
-> — Colin R. Davis
+> — Gary Keller
 
-*Updated on October 19, 2026*
+*Updated on October 20, 2026*
 
