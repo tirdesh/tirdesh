@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Success is about doing the right thing, not about doing everything right."
+> "Each day your life grows a day shorter. Make every move count."
 >
-> — Gary Keller
+> — Ming-Dao Deng
 
-*Updated on October 20, 2026*
+*Updated on October 21, 2026*
 
