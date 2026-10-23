@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one."
+> "If someone betrays you once, it's their fault; if they betray you twice, it's your fault."
 >
-> — Mark Twain
+> — Eleanor Roosevelt
 
-*Updated on October 22, 2026*
+*Updated on October 23, 2026*
 
