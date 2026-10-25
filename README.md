@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world."
+> "The wiser you get, the less you care to look like a fool."
 >
-> — Henry Ward Beecher
+> — Maxime Lagace
 
-*Updated on October 24, 2026*
+*Updated on October 25, 2026*
 
