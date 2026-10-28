@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "Still your waters."
+> "What we dwell on is who we become."
 >
-> — Josh Waitzkin
+> — Oprah Winfrey
 
-*Updated on October 27, 2026*
+*Updated on October 28, 2026*
 
