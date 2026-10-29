@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "What we dwell on is who we become."
+> "The more reasons you have for achieving your goal, the more determined you will become."
 >
-> — Oprah Winfrey
+> — Brian Tracy
 
-*Updated on October 28, 2026*
+*Updated on October 29, 2026*
 
