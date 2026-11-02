@@ -40,9 +40,9 @@ while not succeed:
 
 ### Quote of the Day
 
-> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it."
+> "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."
 >
-> — Kamal Ravikant
+> — Dalai Lama
 
-*Updated on November 01, 2026*
+*Updated on November 02, 2026*
 
